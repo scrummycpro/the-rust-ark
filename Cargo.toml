@@ -9,3 +9,4 @@ edition = "2021"
 druid = "0.8.1"
 rusqlite = "0.26.0"
 chrono = { version = "0.4", features = ["serde"] }
+im = "15.0.0"  # Check for the latest version on crates.io
